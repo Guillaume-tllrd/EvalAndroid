@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EvalAndroid</string>
+    <string name="HomeScreen_title">Ma liste de Pokémon</string>
+    <string name="DetailsScreen_errorMessage">Erreur : Pokémon introuvable</string>
+</resources>

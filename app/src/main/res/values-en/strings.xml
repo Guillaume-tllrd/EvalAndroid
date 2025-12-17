@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EvalAndroid</string>
+    <string name="HomeScreen_title">My pokemon List</string>
+    <string name="DetailsScreen_errorMessage">Error : Pokemon not found</string>
+</resources>
