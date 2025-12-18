@@ -55,13 +55,6 @@ com.example.evalandroid
     └── theme           # Thème graphique Compose
     C'est la touche finale indispensable. Un bon README est ce que le correcteur regarde souvent en premier.
 
-Pour valider la compétence "Présenter la structure du projet de manière efficace", il ne suffit pas de lister les dossiers. Il faut expliquer le flux de données (Data Flow) et les choix technologiques (Clean Architecture, MVVM).
-
-Voici un modèle complet, professionnel et prêt à copier-coller (en format Markdown) pour ton fichier README.md.
-
-Copie ce contenu dans ton fichier README.md à la racine du projet :
-Markdown
-
 # 📱 Application Pokémon (EvalAndroid)
 
 Application Android native développée en **Kotlin** et **Jetpack Compose**, permettant de consulter une liste de Pokémons et leurs statistiques détaillées via une API REST.
