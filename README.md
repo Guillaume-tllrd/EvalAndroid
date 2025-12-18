@@ -53,7 +53,7 @@ com.example.evalandroid
     ├── navigation      # Gestion des routes (Destinations)
     ├── features         # Écrans (Home, Details) et ViewModels
     └── theme           # Thème graphique Compose
-    C'est la touche finale indispensable. Un bon README est ce que le correcteur regarde souvent en premier.
+
 
 # 📱 Application Pokémon (EvalAndroid)
 
